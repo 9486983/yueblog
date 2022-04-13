@@ -1,5 +1,4 @@
 * [主页](/)
-* [.Net](/.net/readme.md)
-  * [WPF](/.net/WPF.md)
-
+* [.Net](/dotnet/readme.md)
+  * [WPF](/dotnet/WPF.md)
 
