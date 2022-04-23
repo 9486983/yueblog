@@ -12,4 +12,4 @@
 
 ##### 再小的帆也能远航
 
-[Get Started](#headline) [GitHub](https://github.com/9486983)
+[详细信息](#headline) [GitHub](https://github.com/9486983)
